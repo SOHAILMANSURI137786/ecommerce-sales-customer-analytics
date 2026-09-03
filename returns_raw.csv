@@ -1,0 +1,869 @@
+Return_ID,Order_ID,Return_Date,Return_Reason,Return_Status
+RET00001,ORD000001,2025-10-17,Better Price Found,Approved
+RET00002,ORD000021,2025-07-26,Wrong Item Delivered,Approved
+RET00003,ORD000038,2026-07-29,Defective Product,Rejected
+RET00004,ORD000039,2025-10-29,Defective Product,Rejected
+RET00005,ORD000059,2026-08-02,Better Price Found,Processing
+RET00006,ORD000067,2026-06-30,Better Price Found,Processing
+RET00007,ORD000081,2026-06-21,Changed Mind,Approved
+RET00008,ORD000089,2026-04-27,Not as Described,Rejected
+RET00009,ORD000095,2025-07-27,Size Issue,Approved
+RET00010,ORD000105,2026-02-06,Size Issue,Processing
+RET00011,ORD000136,2025-10-24,Better Price Found,Rejected
+RET00012,ORD000142,2025-11-16,Not as Described,Rejected
+RET00013,ORD000153,2025-10-19,Better Price Found,Approved
+RET00014,ORD000169,2025-12-10,Wrong Item Delivered,Approved
+RET00015,ORD000203,2026-04-29,Defective Product,Approved
+RET00016,ORD000223,2026-06-29,Defective Product,Processing
+RET00017,ORD000230,2025-09-03,Better Price Found,Rejected
+RET00018,ORD000250,2025-10-15,Wrong Item Delivered,Rejected
+RET00019,ORD000261,2025-11-26,Defective Product,Approved
+RET00020,ORD000271,2026-06-28,Changed Mind,Processing
+RET00021,ORD000272,2025-07-24,Not as Described,Processing
+RET00022,ORD000273,2026-03-14,Better Price Found,Approved
+RET00023,ORD000285,2026-04-22,Changed Mind,Rejected
+RET00024,ORD000288,2025-12-19,Late Delivery,Processing
+RET00025,ORD000309,2026-02-27,Defective Product,Approved
+RET00026,ORD000316,2026-03-07,Size Issue,Rejected
+RET00027,ORD000325,2025-09-17,Wrong Item Delivered,Processing
+RET00028,ORD000334,2026-07-17,Not as Described,Processing
+RET00029,ORD000344,2025-09-20,Not as Described,Approved
+RET00030,ORD000348,2025-08-08,Late Delivery,Processing
+RET00031,ORD000355,2026-01-30,Changed Mind,Approved
+RET00032,ORD000382,2026-06-29,Wrong Item Delivered,Rejected
+RET00033,ORD000387,2026-06-19,Not as Described,Approved
+RET00034,ORD000407,2025-10-04,Size Issue,Rejected
+RET00035,ORD000471,2026-01-07,Defective Product,Processing
+RET00036,ORD000473,2026-07-09,Late Delivery,Processing
+RET00037,ORD000495,2026-01-23,Wrong Item Delivered,Processing
+RET00038,ORD000536,2026-03-16,Wrong Item Delivered,Rejected
+RET00039,ORD000569,2025-09-07,Not as Described,Rejected
+RET00040,ORD000588,2026-07-16,Changed Mind,Approved
+RET00041,ORD000712,2026-03-18,Size Issue,Approved
+RET00042,ORD000714,2026-06-29,Changed Mind,Approved
+RET00043,ORD000727,2025-07-25,Late Delivery,Approved
+RET00044,ORD000736,2025-11-29,Not as Described,Processing
+RET00045,ORD000749,2026-04-06,Late Delivery,Processing
+RET00046,ORD000750,2026-06-26,Size Issue,Approved
+RET00047,ORD000767,2025-12-19,Late Delivery,Rejected
+RET00048,ORD000775,2026-05-08,Late Delivery,Approved
+RET00049,ORD000780,2026-04-04,Size Issue,Rejected
+RET00050,ORD000786,2026-02-03,Defective Product,Processing
+RET00051,ORD000816,2025-07-26,Changed Mind,Processing
+RET00052,ORD000820,2025-11-13,Defective Product,Approved
+RET00053,ORD000826,2026-06-28,Size Issue,Rejected
+RET00054,ORD000835,2025-09-18,Not as Described,Rejected
+RET00055,ORD000841,,Better Price Found,Processing
+RET00056,ORD000851,2026-03-03,Not as Described,Approved
+RET00057,ORD000854,2026-04-05,Not as Described,Processing
+RET00058,ORD000855,2025-08-05,Late Delivery,Rejected
+RET00059,ORD000858,2025-09-10,Late Delivery,Rejected
+RET00060,ORD000859,2025-10-24,Changed Mind,Processing
+RET00061,ORD000861,2026-07-12,Changed Mind,Processing
+RET00062,ORD000866,2025-08-04,Late Delivery,Processing
+RET00063,ORD000874,2025-08-24,Changed Mind,Rejected
+RET00064,ORD000881,2026-05-08,Size Issue,Approved
+RET00065,ORD000887,2026-02-06,Better Price Found,Rejected
+RET00066,ORD000888,2026-08-08,Better Price Found,Approved
+RET00067,ORD000897,2025-09-17,Better Price Found,Processing
+RET00068,ORD000898,2025-12-06,Late Delivery,Processing
+RET00069,ORD000911,2026-01-30,Late Delivery,Processing
+RET00070,ORD000913,2025-12-12,Wrong Item Delivered,Rejected
+RET00071,ORD000923,2026-02-18,Size Issue,Rejected
+RET00072,ORD000934,2026-02-21,Changed Mind,Rejected
+RET00073,ORD000942,2025-11-21,Wrong Item Delivered,Processing
+RET00074,ORD000952,2025-10-26,Late Delivery,Rejected
+RET00075,ORD000974,2026-04-27,Changed Mind,Rejected
+RET00076,ORD000981,2025-09-02,Late Delivery,Rejected
+RET00077,ORD000997,2025-09-27,Size Issue,Rejected
+RET00078,ORD001011,2025-08-23,Size Issue,Rejected
+RET00079,ORD001020,2026-05-02,Wrong Item Delivered,Approved
+RET00080,ORD001036,2026-01-04,Better Price Found,Rejected
+RET00081,ORD001040,2025-10-21,Wrong Item Delivered,Rejected
+RET00082,ORD001075,2026-08-05,Defective Product,Approved
+RET00083,ORD001079,2026-06-16,Better Price Found,Rejected
+RET00084,ORD001083,2025-12-29,Late Delivery,Approved
+RET00085,ORD001084,2026-04-30,Defective Product,Rejected
+RET00086,ORD001095,2025-12-22,Not as Described,Approved
+RET00087,ORD001108,2025-11-11,Size Issue,Rejected
+RET00088,ORD001117,2025-12-30,Changed Mind,Rejected
+RET00089,ORD001118,2026-06-19,Better Price Found,Processing
+RET00090,ORD001126,2025-12-30,Defective Product,Processing
+RET00091,ORD001127,2025-09-22,Better Price Found,Approved
+RET00092,ORD001154,2026-01-29,Better Price Found,Processing
+RET00093,ORD001162,2026-04-20,Defective Product,Processing
+RET00094,ORD001165,2026-02-21,Changed Mind,Processing
+RET00095,ORD001173,2025-12-30,Better Price Found,Approved
+RET00096,ORD001174,2025-08-20,Wrong Item Delivered,Processing
+RET00097,ORD001184,2025-11-25,Defective Product,Approved
+RET00098,ORD001215,2025-08-17,Wrong Item Delivered,Approved
+RET00099,ORD001223,2026-03-27,Late Delivery,Processing
+RET00100,ORD001244,2025-09-02,Late Delivery,Processing
+RET00101,ORD001262,2025-08-23,Wrong Item Delivered,Rejected
+RET00102,ORD001269,2025-08-22,Better Price Found,Approved
+RET00103,ORD001284,2026-06-07,Changed Mind,Rejected
+RET00104,ORD001303,2026-07-30,Not as Described,Processing
+RET00105,ORD001309,2026-06-02,Not as Described,Approved
+RET00106,ORD001311,2026-07-16,Defective Product,Approved
+RET00107,ORD001314,2025-10-18,Defective Product,Rejected
+RET00108,ORD001317,2026-03-13,Size Issue,Processing
+RET00109,ORD001323,2026-01-11,Better Price Found,Rejected
+RET00110,ORD001328,2025-11-19,Changed Mind,Rejected
+RET00111,ORD001372,2025-11-13,Size Issue,Processing
+RET00112,ORD001374,2026-03-22,Wrong Item Delivered,Approved
+RET00113,ORD001376,2026-03-03,Size Issue,Rejected
+RET00114,ORD001380,2026-06-23,Not as Described,Approved
+RET00115,ORD001394,2025-11-15,Changed Mind,Processing
+RET00116,ORD001395,2026-04-01,Size Issue,Processing
+RET00117,ORD001397,2026-05-22,Defective Product,Rejected
+RET00118,ORD001415,2025-09-17,Not as Described,Approved
+RET00119,ORD001428,2025-08-15,Size Issue,Approved
+RET00120,ORD001433,2026-03-12,Not as Described,Processing
+RET00121,ORD001440,2026-05-20,Better Price Found,Approved
+RET00122,ORD001520,2025-07-21,Changed Mind,Processing
+RET00123,ORD001522,2026-04-19,Better Price Found,Approved
+RET00124,ORD001530,2026-06-16,Size Issue,Rejected
+RET00125,ORD001533,2025-10-06,Wrong Item Delivered,Approved
+RET00126,ORD001538,2026-05-25,Changed Mind,Processing
+RET00127,ORD001549,2025-07-08,Size Issue,Processing
+RET00128,ORD001550,2026-02-01,Better Price Found,Rejected
+RET00129,ORD001551,2026-07-31,Defective Product,Rejected
+RET00130,ORD001553,2025-08-30,Defective Product,Processing
+RET00131,ORD001566,2025-11-01,Size Issue,Processing
+RET00132,ORD001574,2026-06-09,Wrong Item Delivered,Processing
+RET00133,ORD001582,2025-10-19,Not as Described,Rejected
+RET00134,ORD001590,2026-04-02,Wrong Item Delivered,Processing
+RET00135,ORD001592,2026-07-08,Changed Mind,Rejected
+RET00136,ORD001598,2026-07-14,Defective Product,Rejected
+RET00137,ORD001610,2026-05-03,Defective Product,Rejected
+RET00138,ORD001611,2026-02-01,Better Price Found,Processing
+RET00139,ORD001649,2026-02-23,Size Issue,Approved
+RET00140,ORD001665,2025-09-01,Changed Mind,Rejected
+RET00141,ORD001681,2025-08-10,Size Issue,Approved
+RET00142,ORD001707,2025-12-26,Not as Described,Approved
+RET00143,ORD001715,2026-06-21,Wrong Item Delivered,Processing
+RET00144,ORD001727,2025-11-07,Wrong Item Delivered,Processing
+RET00145,ORD001757,2026-04-16,Changed Mind,Approved
+RET00146,ORD001761,2026-05-01,Late Delivery,Rejected
+RET00147,ORD001808,2025-08-27,Changed Mind,Approved
+RET00148,ORD001818,2026-05-24,Defective Product,Rejected
+RET00149,ORD001827,2025-12-29,Defective Product,Rejected
+RET00150,ORD001843,2025-07-15,Not as Described,Rejected
+RET00151,ORD001848,2025-09-01,Late Delivery,Processing
+RET00152,ORD001852,2025-09-12,Changed Mind,Rejected
+RET00153,ORD001879,2025-07-21,Wrong Item Delivered,Processing
+RET00154,ORD001886,2025-10-01,Changed Mind,Processing
+RET00155,ORD001895,2025-08-13,Changed Mind,Processing
+RET00156,ORD001899,2025-11-17,Not as Described,Approved
+RET00157,ORD001915,2025-11-04,Changed Mind,Approved
+RET00158,ORD001927,2026-03-28,Wrong Item Delivered,Approved
+RET00159,ORD001930,2025-12-29,Not as Described,Rejected
+RET00160,ORD001932,2026-05-17,Wrong Item Delivered,Approved
+RET00161,ORD001935,2026-01-17,Defective Product,Approved
+RET00162,ORD001951,2026-02-21,Late Delivery,Processing
+RET00163,ORD001956,2026-04-08,Late Delivery,Rejected
+RET00164,ORD001967,2026-02-13,Not as Described,Approved
+RET00165,ORD001972,2026-07-27,Better Price Found,Processing
+RET00166,ORD001984,2026-04-09,Changed Mind,Processing
+RET00167,ORD001989,2025-11-05,Wrong Item Delivered,Processing
+RET00168,ORD002000,2026-01-29,Size Issue,Rejected
+RET00169,ORD002003,2026-05-01,Changed Mind,Rejected
+RET00170,ORD002006,2026-01-29,Better Price Found,Approved
+RET00171,ORD002022,2026-05-27,Changed Mind,Processing
+RET00172,ORD002030,2026-03-19,Better Price Found,Rejected
+RET00173,ORD002035,2025-08-25,Late Delivery,Rejected
+RET00174,ORD002065,2025-12-04,Better Price Found,Rejected
+RET00175,ORD002081,2026-01-20,Better Price Found,Rejected
+RET00176,ORD002101,2026-06-11,Better Price Found,Approved
+RET00177,ORD002113,2026-07-12,Not as Described,Processing
+RET00178,ORD002115,2025-12-18,Not as Described,Approved
+RET00179,ORD002123,2025-08-17,Changed Mind,Approved
+RET00180,ORD002128,2026-04-26,Better Price Found,Rejected
+RET00181,ORD002129,2025-07-21,Better Price Found,Processing
+RET00182,ORD002142,2026-03-12,Better Price Found,Approved
+RET00183,ORD002150,2026-07-23,Not as Described,Rejected
+RET00184,ORD002161,2025-10-08,Defective Product,Approved
+RET00185,ORD002206,,Size Issue,Processing
+RET00186,ORD002218,2026-01-10,Changed Mind,Processing
+RET00187,ORD002219,2026-06-28,Defective Product,Rejected
+RET00188,ORD002231,2025-09-07,Not as Described,Approved
+RET00189,ORD002244,2025-07-26,Wrong Item Delivered,Rejected
+RET00190,ORD002259,2025-10-09,Size Issue,Rejected
+RET00191,ORD002269,2026-06-21,Changed Mind,Approved
+RET00192,ORD002292,2025-11-01,Not as Described,Rejected
+RET00193,ORD002316,2026-05-24,Defective Product,Rejected
+RET00194,ORD002323,2025-09-12,Better Price Found,Processing
+RET00195,ORD002360,2025-07-09,Size Issue,Rejected
+RET00196,ORD002372,2026-05-10,Wrong Item Delivered,Processing
+RET00197,ORD002376,2025-10-27,Wrong Item Delivered,Processing
+RET00198,ORD002388,2025-11-05,Changed Mind,Approved
+RET00199,ORD002393,2025-07-11,Changed Mind,Approved
+RET00200,ORD002408,2025-08-06,Wrong Item Delivered,Processing
+RET00201,ORD002439,2026-01-04,Size Issue,Processing
+RET00202,ORD002441,2025-09-04,Changed Mind,Processing
+RET00203,ORD002453,2026-03-10,Wrong Item Delivered,Processing
+RET00204,ORD002455,2026-05-20,Size Issue,Approved
+RET00205,ORD002464,2026-04-23,Late Delivery,Approved
+RET00206,ORD002470,2025-09-06,Wrong Item Delivered,Rejected
+RET00207,ORD002472,,Not as Described,Rejected
+RET00208,ORD002475,2026-02-21,Defective Product,Approved
+RET00209,ORD002476,,Wrong Item Delivered,Processing
+RET00210,ORD002481,2026-06-28,Defective Product,Rejected
+RET00211,ORD002533,2025-07-20,Defective Product,Approved
+RET00212,ORD002550,2025-10-17,Defective Product,Approved
+RET00213,ORD002568,2026-03-21,Wrong Item Delivered,Approved
+RET00214,ORD002570,2025-08-11,Better Price Found,Processing
+RET00215,ORD002571,2026-02-23,Wrong Item Delivered,Processing
+RET00216,ORD002604,2026-03-20,Wrong Item Delivered,Approved
+RET00217,ORD002605,2026-07-17,Changed Mind,Rejected
+RET00218,ORD002633,2026-03-15,Late Delivery,Approved
+RET00219,ORD002648,2025-08-01,Not as Described,Approved
+RET00220,ORD002686,2025-11-13,Wrong Item Delivered,Processing
+RET00221,ORD002718,2026-05-21,Defective Product,Rejected
+RET00222,ORD002725,2025-12-25,Better Price Found,Approved
+RET00223,ORD002739,2025-10-11,Late Delivery,Approved
+RET00224,ORD002743,2025-11-19,Not as Described,Processing
+RET00225,ORD002748,2025-12-02,Better Price Found,Approved
+RET00226,ORD002753,2025-07-21,Defective Product,Approved
+RET00227,ORD002764,2026-04-12,Changed Mind,Processing
+RET00228,ORD002765,2025-12-13,Size Issue,Rejected
+RET00229,ORD002790,2025-08-29,Defective Product,Rejected
+RET00230,ORD002817,2026-02-24,Changed Mind,Processing
+RET00231,ORD002828,2025-08-20,Defective Product,Rejected
+RET00232,ORD002849,2025-10-09,Better Price Found,Approved
+RET00233,ORD002914,2025-10-26,Late Delivery,Processing
+RET00234,ORD002932,2026-05-18,Late Delivery,Rejected
+RET00235,ORD002939,2026-02-11,Wrong Item Delivered,Approved
+RET00236,ORD002984,2026-07-27,Not as Described,Processing
+RET00237,ORD002990,2026-01-07,Size Issue,Rejected
+RET00238,ORD002997,2026-07-10,Better Price Found,Processing
+RET00239,ORD003000,2026-03-07,Size Issue,Rejected
+RET00240,ORD003015,2026-05-23,Late Delivery,Approved
+RET00241,ORD003039,2025-10-29,Better Price Found,Approved
+RET00242,ORD003043,2025-09-16,Size Issue,Processing
+RET00243,ORD003045,2026-05-13,Defective Product,Rejected
+RET00244,ORD003049,2025-09-21,Late Delivery,Processing
+RET00245,ORD003054,2026-07-18,Late Delivery,Processing
+RET00246,ORD003067,2026-07-11,Size Issue,Approved
+RET00247,ORD003069,2026-05-21,Not as Described,Approved
+RET00248,ORD003075,2026-02-02,Size Issue,Approved
+RET00249,ORD003082,2026-05-14,Defective Product,Processing
+RET00250,ORD003090,2025-08-31,Defective Product,Approved
+RET00251,ORD003118,2025-08-19,Defective Product,Processing
+RET00252,ORD003119,2026-03-27,Better Price Found,Approved
+RET00253,ORD003147,2026-02-09,Defective Product,Rejected
+RET00254,ORD003153,2025-12-15,Size Issue,Processing
+RET00255,ORD003155,2026-01-17,Not as Described,Rejected
+RET00256,ORD003175,2025-07-13,Late Delivery,Approved
+RET00257,ORD003181,2025-12-04,Size Issue,Rejected
+RET00258,ORD003185,2026-02-17,Wrong Item Delivered,Rejected
+RET00259,ORD003188,2026-03-10,Wrong Item Delivered,Approved
+RET00260,ORD003197,2026-01-14,Not as Described,Processing
+RET00261,ORD003215,2026-05-21,Not as Described,Rejected
+RET00262,ORD003230,2026-01-01,Late Delivery,Processing
+RET00263,ORD003237,2025-10-20,Not as Described,Rejected
+RET00264,ORD003242,2025-09-26,Changed Mind,Rejected
+RET00265,ORD003256,2025-09-28,Late Delivery,Rejected
+RET00266,ORD003293,2025-12-26,Changed Mind,Processing
+RET00267,ORD003304,2026-04-14,Defective Product,Processing
+RET00268,ORD003308,,Wrong Item Delivered,Rejected
+RET00269,ORD003350,2025-10-08,Wrong Item Delivered,Processing
+RET00270,ORD003366,2025-07-31,Defective Product,Approved
+RET00271,ORD003422,2025-11-06,Not as Described,Processing
+RET00272,ORD003423,2025-08-26,Wrong Item Delivered,Approved
+RET00273,ORD003454,2025-10-17,Better Price Found,Approved
+RET00274,ORD003462,2025-11-12,Changed Mind,Approved
+RET00275,ORD003497,2025-07-24,Size Issue,Processing
+RET00276,ORD003500,2025-08-04,Not as Described,Rejected
+RET00277,ORD003522,2025-09-15,Defective Product,Rejected
+RET00278,ORD003523,2025-08-22,Size Issue,Rejected
+RET00279,ORD003527,2026-04-08,Changed Mind,Processing
+RET00280,ORD003562,2025-07-18,Defective Product,Rejected
+RET00281,ORD003567,2026-02-09,Size Issue,Processing
+RET00282,ORD003574,2026-06-12,Defective Product,Processing
+RET00283,ORD003576,2026-03-06,Defective Product,Rejected
+RET00284,ORD003588,2026-03-04,Better Price Found,Processing
+RET00285,ORD003598,2025-08-20,Wrong Item Delivered,Processing
+RET00286,ORD003626,2026-04-27,Changed Mind,Rejected
+RET00287,ORD003634,2025-07-20,Late Delivery,Approved
+RET00288,ORD003640,2026-05-21,Not as Described,Rejected
+RET00289,ORD003641,2026-06-14,Wrong Item Delivered,Rejected
+RET00290,ORD003657,2025-07-29,Size Issue,Processing
+RET00291,ORD003677,2025-07-27,Defective Product,Processing
+RET00292,ORD003689,2025-11-26,Defective Product,Rejected
+RET00293,ORD003703,2025-09-15,Changed Mind,Rejected
+RET00294,ORD003709,2026-04-17,Better Price Found,Rejected
+RET00295,ORD003710,2026-07-26,Better Price Found,Processing
+RET00296,ORD003730,2025-11-12,Better Price Found,Processing
+RET00297,ORD003735,2025-10-20,Defective Product,Rejected
+RET00298,ORD003757,2026-05-08,Changed Mind,Processing
+RET00299,ORD003767,2026-04-25,Changed Mind,Processing
+RET00300,ORD003775,2026-01-24,Late Delivery,Approved
+RET00301,ORD003792,2026-07-19,Not as Described,Processing
+RET00302,ORD003796,2025-11-27,Changed Mind,Rejected
+RET00303,ORD003814,2026-04-22,Changed Mind,Rejected
+RET00304,ORD003820,2026-06-09,Not as Described,Processing
+RET00305,ORD003837,2025-07-10,Changed Mind,Approved
+RET00306,ORD003842,2025-10-30,Late Delivery,Rejected
+RET00307,ORD003906,2025-11-03,Size Issue,Rejected
+RET00308,ORD003916,2025-09-09,Late Delivery,Approved
+RET00309,ORD003932,2025-07-20,Not as Described,Processing
+RET00310,ORD003934,2026-04-10,Defective Product,Approved
+RET00311,ORD003943,2025-10-15,Changed Mind,Processing
+RET00312,ORD003976,2025-09-16,Wrong Item Delivered,Rejected
+RET00313,ORD003979,2026-06-23,Defective Product,Processing
+RET00314,ORD003999,2026-01-19,Defective Product,Rejected
+RET00315,ORD004020,2025-08-13,Not as Described,Approved
+RET00316,ORD004046,2026-01-30,Late Delivery,Processing
+RET00317,ORD004047,2026-06-23,Wrong Item Delivered,Approved
+RET00318,ORD004053,2026-07-11,Better Price Found,Approved
+RET00319,ORD004070,2025-09-02,Better Price Found,Processing
+RET00320,ORD004085,2025-09-07,Not as Described,Processing
+RET00321,ORD004087,2025-07-10,Size Issue,Approved
+RET00322,ORD004095,2026-08-08,Size Issue,Rejected
+RET00323,ORD004123,2025-12-23,Defective Product,Processing
+RET00324,ORD004147,2025-12-30,Wrong Item Delivered,Rejected
+RET00325,ORD004150,2025-11-26,Defective Product,Rejected
+RET00326,ORD004156,2025-12-05,Not as Described,Processing
+RET00327,ORD004166,2025-12-15,Wrong Item Delivered,Approved
+RET00328,ORD004167,2026-04-22,Wrong Item Delivered,Approved
+RET00329,ORD004179,2026-03-05,Better Price Found,Processing
+RET00330,ORD004181,2026-01-12,Not as Described,Rejected
+RET00331,ORD004182,2025-08-21,Changed Mind,Rejected
+RET00332,ORD004193,2025-12-04,Changed Mind,Rejected
+RET00333,ORD004196,2025-10-22,Wrong Item Delivered,Approved
+RET00334,ORD004208,2025-09-30,Changed Mind,Processing
+RET00335,ORD004227,2026-02-21,Late Delivery,Rejected
+RET00336,ORD004230,2025-08-11,Late Delivery,Rejected
+RET00337,ORD004234,2026-02-12,Not as Described,Processing
+RET00338,ORD004259,2026-06-13,Wrong Item Delivered,Processing
+RET00339,ORD004265,2025-11-01,Size Issue,Processing
+RET00340,ORD004268,2025-11-27,Defective Product,Approved
+RET00341,ORD004269,2025-09-29,Wrong Item Delivered,Processing
+RET00342,ORD004284,2026-03-06,Late Delivery,Processing
+RET00343,ORD004288,2025-10-01,Size Issue,Rejected
+RET00344,ORD004318,2025-12-04,Better Price Found,Processing
+RET00345,ORD004332,2025-08-23,Wrong Item Delivered,Processing
+RET00346,ORD004337,2025-09-08,Defective Product,Processing
+RET00347,ORD004346,2025-09-04,Wrong Item Delivered,Processing
+RET00348,ORD004359,2026-08-08,Changed Mind,Approved
+RET00349,ORD004363,,Wrong Item Delivered,Approved
+RET00350,ORD004371,2026-05-16,Changed Mind,Processing
+RET00351,ORD004374,2025-07-22,Not as Described,Approved
+RET00352,ORD004424,2026-04-17,Better Price Found,Processing
+RET00353,ORD004425,2026-04-08,Better Price Found,Approved
+RET00354,ORD004439,2026-01-26,Not as Described,Approved
+RET00355,ORD004460,2025-12-03,Size Issue,Processing
+RET00356,ORD004465,2025-12-17,Not as Described,Processing
+RET00357,ORD004482,2025-07-02,Defective Product,Processing
+RET00358,ORD004484,2025-12-11,Better Price Found,Rejected
+RET00359,ORD004486,2026-07-14,Better Price Found,Rejected
+RET00360,ORD004505,2025-12-27,Late Delivery,Rejected
+RET00361,ORD004507,2026-01-03,Wrong Item Delivered,Processing
+RET00362,ORD004516,2026-08-07,Late Delivery,Rejected
+RET00363,ORD004517,2026-01-09,Better Price Found,Approved
+RET00364,ORD004531,2026-02-04,Size Issue,Approved
+RET00365,ORD004536,2025-09-29,Wrong Item Delivered,Approved
+RET00366,ORD004537,2025-08-09,Size Issue,Rejected
+RET00367,ORD004558,2025-08-15,Defective Product,Rejected
+RET00368,ORD004579,2026-05-08,Size Issue,Approved
+RET00369,ORD004586,2025-11-26,Wrong Item Delivered,Processing
+RET00370,ORD004589,2025-09-01,Wrong Item Delivered,Rejected
+RET00371,ORD004595,2026-02-15,Size Issue,Rejected
+RET00372,ORD004605,2025-09-02,Better Price Found,Approved
+RET00373,ORD004607,2026-07-11,Size Issue,Approved
+RET00374,ORD004644,2026-05-17,Late Delivery,Processing
+RET00375,ORD004656,2025-08-17,Not as Described,Rejected
+RET00376,ORD004667,2026-04-09,Wrong Item Delivered,Approved
+RET00377,ORD004674,2026-02-26,Not as Described,Approved
+RET00378,ORD004683,2025-07-28,Late Delivery,Rejected
+RET00379,ORD004690,2026-01-23,Wrong Item Delivered,Processing
+RET00380,ORD004691,2026-02-11,Changed Mind,Rejected
+RET00381,ORD004705,2026-04-23,Not as Described,Processing
+RET00382,ORD004709,2025-08-24,Wrong Item Delivered,Approved
+RET00383,ORD004715,2025-08-07,Defective Product,Approved
+RET00384,ORD004716,2025-09-21,Better Price Found,Processing
+RET00385,ORD004740,2026-07-12,Not as Described,Approved
+RET00386,ORD004747,2025-12-16,Defective Product,Rejected
+RET00387,ORD004752,2026-07-17,Defective Product,Approved
+RET00388,ORD004761,2025-10-18,Defective Product,Rejected
+RET00389,ORD004764,2026-02-23,Defective Product,Approved
+RET00390,ORD004772,2026-05-01,Not as Described,Approved
+RET00391,ORD004777,2026-08-08,Changed Mind,Processing
+RET00392,ORD004778,2025-11-24,Late Delivery,Rejected
+RET00393,ORD004779,2025-08-30,Defective Product,Approved
+RET00394,ORD004784,2025-10-23,Wrong Item Delivered,Processing
+RET00395,ORD004795,2026-07-28,Late Delivery,Processing
+RET00396,ORD004797,2026-07-19,Size Issue,Rejected
+RET00397,ORD004807,2025-10-26,Not as Described,Rejected
+RET00398,ORD004812,2025-11-06,Better Price Found,Processing
+RET00399,ORD004813,2026-02-18,Wrong Item Delivered,Processing
+RET00400,ORD004828,2025-10-03,Size Issue,Processing
+RET00401,ORD004833,2026-05-17,Wrong Item Delivered,Processing
+RET00402,ORD004837,2025-10-13,Size Issue,Approved
+RET00403,ORD004866,2026-02-10,Late Delivery,Approved
+RET00404,ORD004872,2026-02-26,Not as Described,Processing
+RET00405,ORD004902,2026-02-19,Size Issue,Rejected
+RET00406,ORD004910,2025-09-04,Defective Product,Rejected
+RET00407,ORD004916,2026-07-05,Wrong Item Delivered,Approved
+RET00408,ORD004922,2026-02-18,Changed Mind,Processing
+RET00409,ORD004932,2026-03-08,Size Issue,Approved
+RET00410,ORD004956,2026-04-21,Changed Mind,Processing
+RET00411,ORD004973,2025-08-30,Defective Product,Processing
+RET00412,ORD004974,2026-03-25,Size Issue,Approved
+RET00413,ORD004983,2026-06-03,Better Price Found,Processing
+RET00414,ORD004989,2025-10-05,Not as Described,Approved
+RET00415,ORD005003,2026-07-13,Better Price Found,Approved
+RET00416,ORD005017,2026-04-17,Size Issue,Approved
+RET00417,ORD005018,2026-06-09,Changed Mind,Processing
+RET00418,ORD005019,2026-02-12,Changed Mind,Processing
+RET00419,ORD005039,2026-05-22,Wrong Item Delivered,Processing
+RET00420,ORD005052,2025-10-26,Not as Described,Approved
+RET00421,ORD005060,2026-03-14,Changed Mind,Processing
+RET00422,ORD005061,2026-02-14,Size Issue,Processing
+RET00423,ORD005064,2026-06-06,Changed Mind,Approved
+RET00424,ORD005074,,Wrong Item Delivered,Processing
+RET00425,ORD005081,2025-07-11,Changed Mind,Rejected
+RET00426,ORD005086,2026-02-14,Defective Product,Processing
+RET00427,ORD005089,2025-08-10,Wrong Item Delivered,Rejected
+RET00428,ORD005092,2025-08-29,Wrong Item Delivered,Approved
+RET00429,ORD005093,2025-11-07,Wrong Item Delivered,Approved
+RET00430,ORD005109,2025-10-04,Size Issue,Approved
+RET00431,ORD005121,2026-07-05,Size Issue,Processing
+RET00432,ORD005134,2025-09-16,Defective Product,Rejected
+RET00433,ORD005149,,Late Delivery,Rejected
+RET00434,ORD005150,2025-07-15,Changed Mind,Approved
+RET00435,ORD005151,2025-10-15,Size Issue,Approved
+RET00436,ORD005152,2026-04-16,Size Issue,Processing
+RET00437,ORD005178,2026-07-21,Late Delivery,Processing
+RET00438,ORD005186,2026-03-15,Wrong Item Delivered,Approved
+RET00439,ORD005233,2025-09-21,Defective Product,Processing
+RET00440,ORD005246,2025-07-12,Defective Product,Approved
+RET00441,ORD005247,2025-12-18,Defective Product,Processing
+RET00442,ORD005249,2026-05-20,Better Price Found,Rejected
+RET00443,ORD005288,2026-02-22,Defective Product,Rejected
+RET00444,ORD005291,2026-02-07,Better Price Found,Rejected
+RET00445,ORD005292,2026-01-12,Changed Mind,Approved
+RET00446,ORD005299,2026-05-06,Changed Mind,Approved
+RET00447,ORD005307,2026-01-14,Better Price Found,Approved
+RET00448,ORD005315,2025-11-05,Size Issue,Rejected
+RET00449,ORD005331,2026-01-26,Size Issue,Approved
+RET00450,ORD005356,2026-06-19,Not as Described,Approved
+RET00451,ORD005361,2026-06-28,Defective Product,Rejected
+RET00452,ORD005369,2025-11-26,Defective Product,Rejected
+RET00453,ORD005388,2025-10-19,Late Delivery,Approved
+RET00454,ORD005430,2026-03-31,Better Price Found,Rejected
+RET00455,ORD005431,2026-06-11,Not as Described,Approved
+RET00456,ORD005444,2025-12-04,Size Issue,Approved
+RET00457,ORD005455,2026-04-29,Changed Mind,Rejected
+RET00458,ORD005457,,Defective Product,Processing
+RET00459,ORD005470,2025-09-23,Late Delivery,Processing
+RET00460,ORD005496,2025-08-26,Changed Mind,Rejected
+RET00461,ORD005503,2025-08-06,Wrong Item Delivered,Rejected
+RET00462,ORD005507,2025-08-02,Size Issue,Processing
+RET00463,ORD005533,2025-12-02,Late Delivery,Approved
+RET00464,ORD005536,2026-05-10,Better Price Found,Rejected
+RET00465,ORD005537,2026-04-15,Not as Described,Rejected
+RET00466,ORD005540,2026-01-04,Wrong Item Delivered,Processing
+RET00467,ORD005545,2025-11-04,Size Issue,Processing
+RET00468,ORD005565,2025-11-01,Late Delivery,Approved
+RET00469,ORD005566,2025-08-29,Late Delivery,Rejected
+RET00470,ORD005576,2026-03-22,Late Delivery,Approved
+RET00471,ORD005578,2026-01-07,Late Delivery,Approved
+RET00472,ORD005584,2026-02-25,Late Delivery,Rejected
+RET00473,ORD005594,2026-02-11,Defective Product,Processing
+RET00474,ORD005600,2025-07-28,Not as Described,Approved
+RET00475,ORD005602,2026-04-08,Changed Mind,Processing
+RET00476,ORD005614,2025-07-16,Better Price Found,Approved
+RET00477,ORD005642,2026-06-08,Wrong Item Delivered,Processing
+RET00478,ORD005648,2026-05-22,Defective Product,Rejected
+RET00479,ORD005650,2026-06-10,Not as Described,Approved
+RET00480,ORD005652,2025-12-29,Size Issue,Processing
+RET00481,ORD005667,2026-03-28,Better Price Found,Approved
+RET00482,ORD005673,2025-12-05,Size Issue,Processing
+RET00483,ORD005676,2025-10-26,Better Price Found,Processing
+RET00484,ORD005686,2025-10-22,Defective Product,Processing
+RET00485,ORD005691,2026-07-02,Better Price Found,Processing
+RET00486,ORD005703,2025-08-03,Better Price Found,Rejected
+RET00487,ORD005718,2026-02-26,Changed Mind,Approved
+RET00488,ORD005724,2026-08-05,Changed Mind,Approved
+RET00489,ORD005729,2026-06-01,Better Price Found,Approved
+RET00490,ORD005731,2025-12-13,Better Price Found,Processing
+RET00491,ORD005737,2026-05-20,Defective Product,Rejected
+RET00492,ORD005744,2026-02-22,Size Issue,Approved
+RET00493,ORD005746,2025-08-15,Late Delivery,Processing
+RET00494,ORD005748,2025-09-01,Better Price Found,Approved
+RET00495,ORD005759,2026-03-02,Changed Mind,Rejected
+RET00496,ORD005761,2025-11-27,Better Price Found,Rejected
+RET00497,ORD005788,2025-10-13,Better Price Found,Rejected
+RET00498,ORD005789,2026-04-01,Size Issue,Processing
+RET00499,ORD005817,2025-12-22,Defective Product,Rejected
+RET00500,ORD005823,2026-02-27,Defective Product,Processing
+RET00501,ORD005836,2025-12-03,Late Delivery,Rejected
+RET00502,ORD005881,2026-01-29,Better Price Found,Processing
+RET00503,ORD005887,2025-11-23,Better Price Found,Rejected
+RET00504,ORD005889,2025-12-27,Changed Mind,Approved
+RET00505,ORD005895,2026-02-19,Size Issue,Approved
+RET00506,ORD005897,2025-09-26,Size Issue,Processing
+RET00507,ORD005899,2026-01-11,Better Price Found,Rejected
+RET00508,ORD005909,2026-04-20,Late Delivery,Rejected
+RET00509,ORD005914,,Size Issue,Rejected
+RET00510,ORD005920,2025-11-23,Changed Mind,Rejected
+RET00511,ORD005926,2026-08-01,Not as Described,Rejected
+RET00512,ORD005927,2026-02-22,Better Price Found,Approved
+RET00513,ORD005930,2025-12-12,Not as Described,Approved
+RET00514,ORD005932,2026-04-02,Defective Product,Processing
+RET00515,ORD005959,2025-12-28,Defective Product,Processing
+RET00516,ORD005964,2026-05-23,Defective Product,Approved
+RET00517,ORD005969,2026-07-17,Wrong Item Delivered,Approved
+RET00518,ORD005980,2025-11-27,Late Delivery,Rejected
+RET00519,ORD005983,2025-10-31,Wrong Item Delivered,Approved
+RET00520,ORD005986,2026-01-07,Late Delivery,Rejected
+RET00521,ORD006002,2026-08-06,Defective Product,Approved
+RET00522,ORD006021,2026-02-15,Late Delivery,Rejected
+RET00523,ORD006030,2025-08-17,Wrong Item Delivered,Rejected
+RET00524,ORD006040,2025-09-07,Late Delivery,Approved
+RET00525,ORD006051,2026-01-07,Not as Described,Processing
+RET00526,ORD006055,2025-09-26,Changed Mind,Processing
+RET00527,ORD006065,2026-03-07,Not as Described,Processing
+RET00528,ORD006072,2025-10-22,Not as Described,Rejected
+RET00529,ORD006076,2025-10-11,Size Issue,Approved
+RET00530,ORD006079,2026-06-17,Not as Described,Rejected
+RET00531,ORD006081,2025-08-08,Defective Product,Processing
+RET00532,ORD006086,2025-12-10,Wrong Item Delivered,Rejected
+RET00533,ORD006110,2026-01-17,Defective Product,Approved
+RET00534,ORD006126,2025-08-15,Size Issue,Approved
+RET00535,ORD006182,2026-05-12,Late Delivery,Rejected
+RET00536,ORD006186,2026-08-01,Size Issue,Processing
+RET00537,ORD006187,2026-05-02,Defective Product,Processing
+RET00538,ORD006209,2026-01-21,Late Delivery,Rejected
+RET00539,ORD006213,2025-12-27,Wrong Item Delivered,Processing
+RET00540,ORD006228,2026-05-08,Changed Mind,Processing
+RET00541,ORD006234,2025-08-23,Changed Mind,Processing
+RET00542,ORD006247,2026-07-14,Wrong Item Delivered,Rejected
+RET00543,ORD006254,2026-06-16,Better Price Found,Rejected
+RET00544,ORD006261,2026-03-18,Late Delivery,Approved
+RET00545,ORD006301,2025-10-09,Better Price Found,Approved
+RET00546,ORD006307,2026-02-10,Late Delivery,Rejected
+RET00547,ORD006330,2026-05-10,Changed Mind,Processing
+RET00548,ORD006335,2026-04-17,Size Issue,Processing
+RET00549,ORD006342,2025-09-16,Defective Product,Processing
+RET00550,ORD006346,2026-07-06,Defective Product,Processing
+RET00551,ORD006369,2025-10-11,Better Price Found,Processing
+RET00552,ORD006371,2025-12-23,Not as Described,Rejected
+RET00553,ORD006385,2025-09-16,Late Delivery,Approved
+RET00554,ORD006389,2026-06-14,Size Issue,Rejected
+RET00555,ORD006417,2026-06-09,Not as Described,Approved
+RET00556,ORD006429,2026-05-03,Not as Described,Rejected
+RET00557,ORD006462,2025-12-07,Defective Product,Rejected
+RET00558,ORD006478,2026-01-30,Changed Mind,Approved
+RET00559,ORD006479,2025-12-12,Size Issue,Processing
+RET00560,ORD006494,2025-10-16,Better Price Found,Rejected
+RET00561,ORD006501,2025-10-18,Not as Described,Processing
+RET00562,ORD006511,2025-10-30,Defective Product,Processing
+RET00563,ORD006517,2026-05-22,Wrong Item Delivered,Processing
+RET00564,ORD006535,2025-10-21,Better Price Found,Rejected
+RET00565,ORD006547,2025-11-23,Better Price Found,Processing
+RET00566,ORD006548,2026-05-17,Changed Mind,Rejected
+RET00567,ORD006568,2026-03-03,Late Delivery,Processing
+RET00568,ORD006580,2025-08-28,Defective Product,Approved
+RET00569,ORD006585,2025-12-16,Size Issue,Processing
+RET00570,ORD006591,2026-04-06,Late Delivery,Processing
+RET00571,ORD006602,,Wrong Item Delivered,Processing
+RET00572,ORD006603,2026-04-24,Late Delivery,Processing
+RET00573,ORD006607,2026-07-02,Defective Product,Rejected
+RET00574,ORD006608,2025-08-31,Wrong Item Delivered,Approved
+RET00575,ORD006628,2025-09-10,Late Delivery,Rejected
+RET00576,ORD006649,2026-05-03,Wrong Item Delivered,Approved
+RET00577,ORD006652,2025-08-08,Wrong Item Delivered,Approved
+RET00578,ORD006681,2026-05-13,Late Delivery,Rejected
+RET00579,ORD006708,2026-03-31,Wrong Item Delivered,Rejected
+RET00580,ORD006709,2026-02-08,Wrong Item Delivered,Approved
+RET00581,ORD006725,2026-03-24,Not as Described,Approved
+RET00582,ORD006738,2025-12-30,Size Issue,Processing
+RET00583,ORD006749,2026-05-22,Defective Product,Rejected
+RET00584,ORD006754,2025-12-10,Not as Described,Rejected
+RET00585,ORD006765,2026-01-16,Changed Mind,Rejected
+RET00586,ORD006768,2025-08-05,Wrong Item Delivered,Processing
+RET00587,ORD006769,2026-07-18,Better Price Found,Approved
+RET00588,ORD006775,2026-03-26,Better Price Found,Processing
+RET00589,ORD006783,2026-07-13,Wrong Item Delivered,Processing
+RET00590,ORD006788,2026-05-02,Defective Product,Approved
+RET00591,ORD006802,2025-11-06,Changed Mind,Rejected
+RET00592,ORD006806,2026-05-18,Size Issue,Approved
+RET00593,ORD006807,2026-04-28,Changed Mind,Processing
+RET00594,ORD006825,2026-04-25,Late Delivery,Processing
+RET00595,ORD006835,2025-08-08,Wrong Item Delivered,Processing
+RET00596,ORD006852,2026-02-09,Changed Mind,Processing
+RET00597,ORD006880,2025-09-27,Changed Mind,Processing
+RET00598,ORD006889,2026-08-05,Better Price Found,Rejected
+RET00599,ORD006892,2026-06-24,Late Delivery,Processing
+RET00600,ORD006898,2025-08-06,Late Delivery,Rejected
+RET00601,ORD006903,2025-07-25,Size Issue,Approved
+RET00602,ORD006936,2025-08-12,Wrong Item Delivered,Approved
+RET00603,ORD006954,2026-06-04,Late Delivery,Approved
+RET00604,ORD006961,2026-02-03,Wrong Item Delivered,Approved
+RET00605,ORD006963,2026-01-03,Defective Product,Rejected
+RET00606,ORD006988,2025-10-09,Better Price Found,Rejected
+RET00607,ORD006995,2025-09-23,Size Issue,Rejected
+RET00608,ORD007016,2026-03-27,Defective Product,Processing
+RET00609,ORD007020,2025-08-10,Size Issue,Rejected
+RET00610,ORD007062,2025-07-15,Changed Mind,Rejected
+RET00611,ORD007082,2025-11-29,Not as Described,Processing
+RET00612,ORD007106,2025-12-29,Defective Product,Processing
+RET00613,ORD007113,2025-09-22,Not as Described,Approved
+RET00614,ORD007123,2025-11-09,Defective Product,Approved
+RET00615,ORD007125,2026-01-14,Wrong Item Delivered,Approved
+RET00616,ORD007138,2025-08-17,Size Issue,Approved
+RET00617,ORD007147,2025-07-21,Not as Described,Approved
+RET00618,ORD007200,2025-12-14,Better Price Found,Processing
+RET00619,ORD007206,2026-07-16,Not as Described,Approved
+RET00620,ORD007219,2026-05-28,Not as Described,Processing
+RET00621,ORD007226,2026-08-09,Wrong Item Delivered,Rejected
+RET00622,ORD007235,2025-11-21,Size Issue,Approved
+RET00623,ORD007249,2025-09-23,Changed Mind,Rejected
+RET00624,ORD007257,2025-10-16,Wrong Item Delivered,Rejected
+RET00625,ORD007269,2026-07-25,Defective Product,Rejected
+RET00626,ORD007307,2026-01-27,Changed Mind,Processing
+RET00627,ORD007327,2026-07-10,Size Issue,Processing
+RET00628,ORD007337,2025-09-06,Late Delivery,Approved
+RET00629,ORD007344,2026-01-22,Not as Described,Approved
+RET00630,ORD007345,2026-01-02,Size Issue,Approved
+RET00631,ORD007356,2025-09-25,Size Issue,Processing
+RET00632,ORD007388,2025-10-21,Not as Described,Processing
+RET00633,ORD007393,2025-09-02,Better Price Found,Processing
+RET00634,ORD007407,2026-01-04,Not as Described,Approved
+RET00635,ORD007434,2025-08-03,Wrong Item Delivered,Processing
+RET00636,ORD007451,2026-02-15,Late Delivery,Processing
+RET00637,ORD007452,,Not as Described,Rejected
+RET00638,ORD007476,2025-09-04,Wrong Item Delivered,Rejected
+RET00639,ORD007477,2025-11-28,Defective Product,Processing
+RET00640,ORD007527,2026-08-02,Changed Mind,Rejected
+RET00641,ORD007534,2026-07-28,Wrong Item Delivered,Approved
+RET00642,ORD007551,2026-02-03,Defective Product,Rejected
+RET00643,ORD007556,2025-11-18,Wrong Item Delivered,Processing
+RET00644,ORD007557,2026-03-13,Defective Product,Processing
+RET00645,ORD007562,2025-08-03,Better Price Found,Rejected
+RET00646,ORD007575,2026-05-05,Changed Mind,Processing
+RET00647,ORD007596,2025-10-24,Defective Product,Approved
+RET00648,ORD007608,2025-10-06,Defective Product,Processing
+RET00649,ORD007627,,Defective Product,Rejected
+RET00650,ORD007632,,Late Delivery,Approved
+RET00651,ORD007636,2025-08-31,Changed Mind,Approved
+RET00652,ORD007644,2025-12-05,Late Delivery,Approved
+RET00653,ORD007653,2025-10-20,Size Issue,Rejected
+RET00654,ORD007659,2025-10-20,Size Issue,Processing
+RET00655,ORD007673,2026-02-22,Size Issue,Approved
+RET00656,ORD007681,2026-02-02,Better Price Found,Approved
+RET00657,ORD007684,2026-05-14,Wrong Item Delivered,Rejected
+RET00658,ORD007689,2025-09-30,Changed Mind,Processing
+RET00659,ORD007728,2025-11-06,Changed Mind,Rejected
+RET00660,ORD007765,2026-03-02,Better Price Found,Rejected
+RET00661,ORD007787,,Not as Described,Approved
+RET00662,ORD007792,2026-07-15,Not as Described,Processing
+RET00663,ORD007798,2026-07-21,Late Delivery,Processing
+RET00664,ORD007801,2026-08-03,Defective Product,Rejected
+RET00665,ORD007810,2026-07-07,Defective Product,Processing
+RET00666,ORD007823,2026-02-22,Changed Mind,Approved
+RET00667,ORD007846,2025-12-21,Size Issue,Processing
+RET00668,ORD007850,2025-11-02,Not as Described,Approved
+RET00669,ORD007852,2025-09-23,Wrong Item Delivered,Approved
+RET00670,ORD007861,2025-09-13,Size Issue,Processing
+RET00671,ORD007876,2025-11-20,Better Price Found,Rejected
+RET00672,ORD007889,2025-07-30,Size Issue,Rejected
+RET00673,ORD007900,2026-01-19,Not as Described,Processing
+RET00674,ORD007902,2026-05-11,Changed Mind,Rejected
+RET00675,ORD007905,2026-01-18,Defective Product,Approved
+RET00676,ORD007912,2026-06-15,Changed Mind,Rejected
+RET00677,ORD007913,2026-06-17,Defective Product,Approved
+RET00678,ORD007964,2026-06-23,Defective Product,Rejected
+RET00679,ORD007988,2026-05-23,Not as Described,Approved
+RET00680,ORD008005,2026-04-15,Defective Product,Rejected
+RET00681,ORD008017,2026-04-04,Better Price Found,Processing
+RET00682,ORD008022,2026-01-05,Changed Mind,Approved
+RET00683,ORD008029,2025-10-07,Better Price Found,Approved
+RET00684,ORD008030,,Defective Product,Approved
+RET00685,ORD008042,2026-07-16,Changed Mind,Approved
+RET00686,ORD008066,,Changed Mind,Rejected
+RET00687,ORD008082,2026-08-01,Not as Described,Processing
+RET00688,ORD008095,2025-12-09,Changed Mind,Approved
+RET00689,ORD008096,2026-01-01,Not as Described,Approved
+RET00690,ORD008111,2025-08-17,Late Delivery,Processing
+RET00691,ORD008118,2026-06-19,Better Price Found,Rejected
+RET00692,ORD008155,,Changed Mind,Processing
+RET00693,ORD008176,2025-11-03,Late Delivery,Approved
+RET00694,ORD008178,2026-03-18,Size Issue,Approved
+RET00695,ORD008180,2025-09-01,Size Issue,Approved
+RET00696,ORD008192,2026-03-15,Not as Described,Approved
+RET00697,ORD008207,2026-01-14,Size Issue,Approved
+RET00698,ORD008229,2026-04-04,Defective Product,Approved
+RET00699,ORD008255,2025-11-06,Size Issue,Rejected
+RET00700,ORD008261,2026-02-19,Late Delivery,Processing
+RET00701,ORD008282,2025-11-01,Changed Mind,Rejected
+RET00702,ORD008288,2026-03-13,Better Price Found,Processing
+RET00703,ORD008317,2026-06-16,Size Issue,Rejected
+RET00704,ORD008321,2025-10-03,Size Issue,Processing
+RET00705,ORD008327,2025-11-25,Better Price Found,Processing
+RET00706,ORD008346,2026-06-03,Wrong Item Delivered,Approved
+RET00707,ORD008349,2026-04-19,Changed Mind,Approved
+RET00708,ORD008354,2026-05-14,Defective Product,Processing
+RET00709,ORD008357,2025-12-19,Changed Mind,Approved
+RET00710,ORD008376,2026-02-05,Wrong Item Delivered,Rejected
+RET00711,ORD008379,2026-05-25,Better Price Found,Rejected
+RET00712,ORD008393,2026-06-17,Size Issue,Approved
+RET00713,ORD008398,2026-01-04,Size Issue,Approved
+RET00714,ORD008405,2026-03-27,Defective Product,Rejected
+RET00715,ORD008412,2026-04-03,Better Price Found,Approved
+RET00716,ORD008429,2025-09-27,Defective Product,Rejected
+RET00717,ORD008445,2026-07-31,Defective Product,Processing
+RET00718,ORD008447,2025-10-23,Size Issue,Rejected
+RET00719,ORD008472,,Late Delivery,Processing
+RET00720,ORD008475,2026-05-05,Late Delivery,Rejected
+RET00721,ORD008478,2026-07-13,Wrong Item Delivered,Approved
+RET00722,ORD008490,2026-01-26,Not as Described,Processing
+RET00723,ORD008497,2025-08-30,Changed Mind,Processing
+RET00724,ORD008502,2026-01-27,Size Issue,Approved
+RET00725,ORD008520,2026-07-27,Late Delivery,Rejected
+RET00726,ORD008524,2026-05-22,Wrong Item Delivered,Rejected
+RET00727,ORD008533,2026-01-01,Late Delivery,Processing
+RET00728,ORD008610,2025-08-03,Better Price Found,Processing
+RET00729,ORD008628,2025-12-20,Changed Mind,Approved
+RET00730,ORD008631,2026-03-01,Late Delivery,Rejected
+RET00731,ORD008636,2026-07-29,Wrong Item Delivered,Rejected
+RET00732,ORD008642,2026-06-23,Not as Described,Rejected
+RET00733,ORD008672,2026-06-10,Changed Mind,Approved
+RET00734,ORD008678,2026-02-04,Changed Mind,Processing
+RET00735,ORD008685,2026-05-04,Better Price Found,Rejected
+RET00736,ORD008698,2025-07-15,Late Delivery,Processing
+RET00737,ORD008707,,Late Delivery,Processing
+RET00738,ORD008738,2025-12-18,Wrong Item Delivered,Approved
+RET00739,ORD008739,2026-04-15,Changed Mind,Approved
+RET00740,ORD008740,2026-06-12,Size Issue,Approved
+RET00741,ORD008752,2025-08-13,Changed Mind,Processing
+RET00742,ORD008756,2025-10-28,Defective Product,Rejected
+RET00743,ORD008759,2025-12-31,Changed Mind,Rejected
+RET00744,ORD008788,2026-08-01,Size Issue,Processing
+RET00745,ORD008805,2025-08-16,Not as Described,Processing
+RET00746,ORD008819,2026-04-10,Defective Product,Processing
+RET00747,ORD008831,2025-09-27,Defective Product,Rejected
+RET00748,ORD008832,2025-10-30,Wrong Item Delivered,Processing
+RET00749,ORD008838,2026-02-11,Wrong Item Delivered,Rejected
+RET00750,ORD008840,2026-03-08,Changed Mind,Rejected
+RET00751,ORD008859,2026-07-27,Not as Described,Rejected
+RET00752,ORD008898,2025-10-10,Changed Mind,Approved
+RET00753,ORD008908,2026-05-15,Better Price Found,Approved
+RET00754,ORD008912,2026-06-03,Better Price Found,Rejected
+RET00755,ORD008916,2026-06-11,Changed Mind,Processing
+RET00756,ORD008920,2025-07-15,Wrong Item Delivered,Rejected
+RET00757,ORD008944,2025-12-22,Better Price Found,Rejected
+RET00758,ORD008946,2025-07-24,Late Delivery,Approved
+RET00759,ORD008951,2026-07-22,Changed Mind,Approved
+RET00760,ORD008953,2026-01-29,Not as Described,Rejected
+RET00761,ORD008954,2026-06-05,Late Delivery,Approved
+RET00762,ORD008956,2026-06-28,Changed Mind,Processing
+RET00763,ORD008963,2026-06-12,Late Delivery,Processing
+RET00764,ORD008974,2025-08-18,Not as Described,Approved
+RET00765,ORD009016,2025-11-07,Changed Mind,Approved
+RET00766,ORD009024,2025-08-11,Late Delivery,Approved
+RET00767,ORD009032,2025-11-30,Wrong Item Delivered,Approved
+RET00768,ORD009033,2026-05-07,Changed Mind,Approved
+RET00769,ORD009041,2026-05-03,Size Issue,Processing
+RET00770,ORD009048,2026-01-21,Better Price Found,Processing
+RET00771,ORD009049,2026-03-29,Wrong Item Delivered,Approved
+RET00772,ORD009054,2025-08-27,Wrong Item Delivered,Rejected
+RET00773,ORD009056,2026-06-27,Late Delivery,Approved
+RET00774,ORD009066,2025-10-25,Better Price Found,Approved
+RET00775,ORD009085,2025-07-19,Better Price Found,Rejected
+RET00776,ORD009095,2026-01-09,Defective Product,Approved
+RET00777,ORD009106,2025-09-05,Late Delivery,Approved
+RET00778,ORD009121,2025-09-24,Not as Described,Rejected
+RET00779,ORD009184,2026-07-31,Size Issue,Approved
+RET00780,ORD009185,2026-02-22,Size Issue,Approved
+RET00781,ORD009198,2026-05-10,Not as Described,Approved
+RET00782,ORD009201,2025-08-30,Defective Product,Rejected
+RET00783,ORD009212,2025-08-06,Not as Described,Rejected
+RET00784,ORD009224,2026-03-02,Defective Product,Processing
+RET00785,ORD009247,2025-08-27,Better Price Found,Processing
+RET00786,ORD009260,2026-05-21,Late Delivery,Rejected
+RET00787,ORD009263,2026-05-31,Wrong Item Delivered,Rejected
+RET00788,ORD009269,2026-07-18,Changed Mind,Processing
+RET00789,ORD009295,2025-09-25,Size Issue,Rejected
+RET00790,ORD009301,2026-04-03,Size Issue,Rejected
+RET00791,ORD009332,2025-08-01,Defective Product,Rejected
+RET00792,ORD009334,2025-10-15,Changed Mind,Rejected
+RET00793,ORD009346,2025-12-03,Defective Product,Rejected
+RET00794,ORD009350,2025-10-14,Wrong Item Delivered,Approved
+RET00795,ORD009389,,Changed Mind,Rejected
+RET00796,ORD009399,2025-10-12,Defective Product,Rejected
+RET00797,ORD009433,2026-03-03,Wrong Item Delivered,Approved
+RET00798,ORD009435,2025-10-23,Changed Mind,Processing
+RET00799,ORD009444,2025-12-08,Changed Mind,Processing
+RET00800,ORD009449,2026-07-24,Better Price Found,Rejected
+RET00801,ORD009452,2025-12-25,Better Price Found,Processing
+RET00802,ORD009473,2026-05-26,Not as Described,Processing
+RET00803,ORD009490,2026-06-14,Defective Product,Processing
+RET00804,ORD009499,2025-12-25,Defective Product,Approved
+RET00805,ORD009513,2025-12-18,Late Delivery,Approved
+RET00806,ORD009516,2025-08-01,Changed Mind,Rejected
+RET00807,ORD009529,2026-03-02,Wrong Item Delivered,Rejected
+RET00808,ORD009531,2025-11-03,Defective Product,Approved
+RET00809,ORD009555,2026-03-23,Wrong Item Delivered,Processing
+RET00810,ORD009585,2026-04-22,Not as Described,Processing
+RET00811,ORD009606,2025-09-24,Defective Product,Approved
+RET00812,ORD009607,2025-09-20,Better Price Found,Rejected
+RET00813,ORD009625,2025-12-16,Not as Described,Rejected
+RET00814,ORD009627,2025-09-03,Changed Mind,Rejected
+RET00815,ORD009687,2025-10-14,Size Issue,Approved
+RET00816,ORD009718,2026-06-11,Late Delivery,Processing
+RET00817,ORD009740,2025-08-18,Better Price Found,Processing
+RET00818,ORD009757,2026-03-26,Late Delivery,Processing
+RET00819,ORD009779,2026-03-15,Not as Described,Processing
+RET00820,ORD009839,2026-07-18,Wrong Item Delivered,Processing
+RET00821,ORD009846,2025-09-02,Better Price Found,Processing
+RET00822,ORD009860,2026-02-09,Defective Product,Approved
+RET00823,ORD009878,2025-11-11,Not as Described,Rejected
+RET00824,ORD009882,2025-12-19,Defective Product,Approved
+RET00825,ORD009888,2025-10-15,Changed Mind,Approved
+RET00826,ORD009930,2026-07-14,Not as Described,Approved
+RET00827,ORD009944,2025-08-25,Late Delivery,Processing
+RET00828,ORD009963,2026-04-27,Defective Product,Approved
+RET00829,ORD009997,2026-02-27,Size Issue,Rejected
+RET00830,ORD010020,2025-09-28,Changed Mind,Processing
+RET00831,ORD010024,2026-05-27,Changed Mind,Approved
+RET00832,ORD010034,,Wrong Item Delivered,Rejected
+RET00833,ORD010037,2026-07-03,Not as Described,Approved
+RET00834,ORD010039,2025-12-26,Defective Product,Rejected
+RET00835,ORD010046,2026-03-05,Late Delivery,Rejected
+RET00836,ORD010067,2026-01-31,Not as Described,Processing
+RET00837,ORD010076,2026-07-06,Size Issue,Rejected
+RET00838,ORD010093,2026-03-11,Defective Product,Approved
+RET00839,ORD010099,2025-08-02,Changed Mind,Rejected
+RET00840,ORD010112,2025-09-03,Not as Described,Processing
+RET00841,ORD010124,2026-07-17,Better Price Found,Processing
+RET00842,ORD010125,2025-08-29,Changed Mind,Rejected
+RET00843,ORD010154,2026-01-24,Size Issue,Rejected
+RET00844,ORD010180,2026-01-23,Late Delivery,Rejected
+RET00845,ORD010183,2026-04-19,Better Price Found,Rejected
+RET00846,ORD010200,2026-07-21,Wrong Item Delivered,Rejected
+RET00847,ORD010237,2025-12-31,Changed Mind,Approved
+RET00848,ORD010241,2026-02-20,Better Price Found,Rejected
+RET00849,ORD010246,2026-06-06,Wrong Item Delivered,Processing
+RET00850,ORD010259,2026-04-13,Size Issue,Rejected
+RET00851,ORD010277,2025-09-26,Better Price Found,Approved
+RET00852,ORD010284,2026-04-11,Not as Described,Approved
+RET00853,ORD010346,2025-07-27,Late Delivery,Approved
+RET00854,ORD010348,2026-08-04,Size Issue,Processing
+RET00855,ORD010376,2026-07-22,Changed Mind,Approved
+RET00856,ORD010380,2025-08-14,Not as Described,Approved
+RET00857,ORD010403,2026-04-14,Better Price Found,Processing
+RET00858,ORD010431,2026-02-15,Changed Mind,Approved
+RET00859,ORD010437,2026-07-08,Not as Described,Processing
+RET00860,ORD010445,2025-12-31,Not as Described,Processing
+RET00861,ORD010448,2026-03-17,Wrong Item Delivered,Rejected
+RET00862,ORD010462,2025-09-27,Wrong Item Delivered,Processing
+RET00863,ORD010464,2025-07-15,Size Issue,Processing
+RET00864,ORD010465,2025-11-16,Late Delivery,Rejected
+RET00865,ORD010476,2026-01-29,Size Issue,Rejected
+RET00866,ORD010483,2026-03-08,Wrong Item Delivered,Rejected
+RET00867,ORD010485,2026-07-08,Changed Mind,Rejected
+RET00868,ORD010500,2026-04-06,Not as Described,Processing
